@@ -1,9 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 <h1>Hi there, I'm <a href="" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ![](https://komarev.com/ghpvc/?username=JSeniorSan)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+
 
 ## My tech stack:
 
