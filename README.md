@@ -1,14 +1,15 @@
 <h1 align="start">Hi there, I'm <a href="" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="start">Frontend Developer⚡️</h3>
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52cDV5M2xxYzU4MWlreXF3YzcwcnRmMWFxeTBpamhnYzEweHFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHOUcNRKgpqTHiM/giphy.gif" width="200"/>
-</div>
+</div> -->
 
 <h3>About me</h3>
 <div>
   
 </div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JSeniorSan)](https://github.com/username/github-readme-stats)
 
 <h3>My tech stack:</h3>
 - JavaScript, TypeScript
