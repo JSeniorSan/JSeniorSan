@@ -28,7 +28,7 @@ If you have interesting projects or ideas, I am always open to discussion. You c
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JSeniorSan)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=JSeniorSan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSeniorSan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Thank you for your interest in my profile. Let's create something amazing together! 
  
