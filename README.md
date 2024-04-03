@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 ## Streak stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=JSeniorSan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JSeniorSan&theme=transparent&hide_border=true&card_width=350)](https://git.io/streak-stats)
 
 ## My tech stack:
 
