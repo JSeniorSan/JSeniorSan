@@ -1,25 +1,16 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vladimir</a> 
+<h1 align="start">Hi there, I'm <a href="" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend Developer ⚡️</h3>
+<h2 align="start">Frontend Developer⚡️</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52cDV5M2xxYzU4MWlreXF3YzcwcnRmMWFxeTBpamhnYzEweHFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHOUcNRKgpqTHiM/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52cDV5M2xxYzU4MWlreXF3YzcwcnRmMWFxeTBpamhnYzEweHFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHOUcNRKgpqTHiM/giphy.gif" width="200"/>
 </div>
 
+<h3>About me</h3>
+<div>
+  
+</div>
 
-
-Привет! Меня зовут Владимир Яковлев, и я посвятил себя миру фронтенд разработки. Каждый день для меня - это новая возможность для открытий и творчества в этой динамично развивающейся сфере.
-
-
-## Обо мне
-
-Я активно развиваюсь в сфере фронтенда, постоянно исследуя новые технологии и методологии. Особое внимание уделяю изучению технологий, связанных с искусственным интеллектом, веря, что они открывают новые горизонты для создания инновационных продуктов.
-
-Считаю, что в деталях кроется сила великого продукта. Поэтому я стремлюсь к совершенству в каждом аспекте своей работы, создавая приложения, которые не только выполняют свои функции, но и радуют пользователей своей эстетикой и удобством использования.
-
-## Технологии
-
-В моем арсенале есть широкий спектр технологий, включая, но не ограничиваясь:
-
+<h3>My tech stack:</h3>
 - JavaScript, TypeScript
 - React, Next.js
 - HTML, CSS, SASS/LESS, Styled Components, Tailwind CSS
@@ -29,15 +20,13 @@
 - Работа с REST API
 - Chat GPT, Codium Ai
 
-## Контакты
-
-Если у вас есть интересные проекты или идеи, я всегда открыт к обсуждению. Связаться со мной можно через:
-
+<h3>Links</h3>
+If you have interesting projects or ideas, I am always open to discussion. You can contact me via:
 - **Email**: yk_vladimir@mail.ru
 - **Kwork**: https://kwork.ru/user/vladimir_yk
 - **Telegram**: https://t.me/Vl_YakovlevYK
 
-Спасибо за интерес к моему профилю. Давайте создавать что-то удивительное вместе!
+Thank you for your interest in my profile. Let's create something amazing together!
 
 
 
