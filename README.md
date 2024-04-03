@@ -1,6 +1,6 @@
 # Hi there, I'm <a href="" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-Frontend Developer⚡️
+<h2>Frontend Developer</h2>⚡️
 
 ## About me
 I am actively developing in the field of frontend, constantly exploring new technologies and methodologies. I pay special attention to the study of technologies related to artificial intelligence, believing that they open up new horizons for the creation of innovative products.
@@ -25,10 +25,10 @@ If you have interesting projects or ideas, I am always open to discussion. You c
 - **Kwork**: https://kwork.ru/user/vladimir_yk
 - **Telegram**: https://t.me/Vl_YakovlevYK
 
-Thank you for your interest in my profile. Let's create something amazing together! 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JhdWZuOGlraGttcHlrajFmMzlqeHlhZjBvb3M3bTZqYjNxczJwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="100"/>
+Thank you for your interest in my profile. Let's create something amazing together! <div id="header" align="start">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYxOTl6OXZxeXl5ZzhicDJyZXR1MzduaTh5NnR6NTFpeWFudDJmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tIeCLkB8geYtW/giphy.gif" width="100"/>
 </div>
+
 
 
 
