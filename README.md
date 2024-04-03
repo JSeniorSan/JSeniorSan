@@ -5,10 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
-## About me
-I am actively developing in the field of frontend, constantly exploring new technologies and methodologies. I pay special attention to the study of technologies related to artificial intelligence, believing that they open up new horizons for the creation of innovative products.
-
-I believe that the power of a great product lies in the details. Therefore, I strive for excellence in every aspect of my work, creating applications that not only perform their functions, but also delight users with their aesthetics and ease of use.
+## Streak stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JSeniorSan)](https://git.io/streak-stats)
 
 ## My tech stack:
 
@@ -20,14 +18,12 @@ I believe that the power of a great product lies in the details. Therefore, I st
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white), ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white), 
  
-
 ## Links
 If you have interesting projects or ideas, I am always open to discussion. You can contact me via:
 - **Email**: yk_vladimir@mail.ru
 - **Kwork**: https://kwork.ru/user/vladimir_yk
 - **Telegram**: https://t.me/Vl_YakovlevYK
-## Streak stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JSeniorSan)](https://git.io/streak-stats)
+
 
 `Thank you for your interest in my profile. Let's create something amazing together!`
  
