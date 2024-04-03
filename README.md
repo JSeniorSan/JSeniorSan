@@ -5,13 +5,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52cDV5M2xxYzU4MWlreXF3YzcwcnRmMWFxeTBpamhnYzEweHFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHOUcNRKgpqTHiM/giphy.gif" width="200"/>
 </div> -->
 
-<h3>About me</h3>
+##About me
 <div>
   
 </div>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JSeniorSan)](https://github.com/username/github-readme-stats)
 
-<ul>My tech stack:
+<label>My tech stack:</label>
+<ul>
    <li>JavaScript, TypeScript</li>
    <li>React, Next.js</li>
   <li> HTML, CSS, SASS/LESS, Styled Components, Tailwind CSS</li>
