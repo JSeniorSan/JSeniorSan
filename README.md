@@ -26,8 +26,8 @@
 Если у вас есть интересные проекты или идеи, я всегда открыт к обсуждению. Связаться со мной можно через:
 
 - **Email**: yk_vladimir@mail.ru
-- **Kwork**: https://kwork.ru/user/vladimir_yk(#)
-- **Telegram**: https://t.me/Vl_YakovlevYK(#)
+- **Kwork**: https://kwork.ru/user/vladimir_yk
+- **Telegram**: https://t.me/Vl_YakovlevYK
 
 Спасибо за интерес к моему профилю. Давайте создавать что-то удивительное вместе!
 
