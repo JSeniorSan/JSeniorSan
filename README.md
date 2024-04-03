@@ -11,15 +11,16 @@
 </div>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JSeniorSan)](https://github.com/username/github-readme-stats)
 
-<h3>My tech stack:</h3>
-- JavaScript, TypeScript
-- React, Next.js
-- HTML, CSS, SASS/LESS, Styled Components, Tailwind CSS
-- Git, Webpack, npm, Vite
-- Docker, Prisma, Postgresql, MongoDB
-- Node.js, express
-- Работа с REST API
-- Chat GPT, Codium Ai
+<ul>My tech stack:
+   <li>JavaScript, TypeScript</li>
+   <li>React, Next.js</li>
+  <li> HTML, CSS, SASS/LESS, Styled Components, Tailwind CSS</li>
+  <li> Git, Webpack, npm, Vite</li>
+  <li> Docker, Prisma, Postgresql, MongoDB</li>
+  <li> Node.js, express</li>
+  <li> Работа с REST API</li>
+   <li>Chat GPT, Codium Ai</li>
+ </ul>
 
 <h3>Links</h3>
 If you have interesting projects or ideas, I am always open to discussion. You can contact me via:
