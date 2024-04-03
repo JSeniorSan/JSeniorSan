@@ -1,6 +1,6 @@
 <h1>Hi there, I'm <a href="" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2>Frontend Developer</h2>⚡️
+`Frontend Developer⚡️`
 
 ## About me
 I am actively developing in the field of frontend, constantly exploring new technologies and methodologies. I pay special attention to the study of technologies related to artificial intelligence, believing that they open up new horizons for the creation of innovative products.
@@ -24,6 +24,8 @@ If you have interesting projects or ideas, I am always open to discussion. You c
 - **Email**: yk_vladimir@mail.ru
 - **Kwork**: https://kwork.ru/user/vladimir_yk
 - **Telegram**: https://t.me/Vl_YakovlevYK
+## Streak stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JSeniorSan)](https://git.io/streak-stats)
 
 Thank you for your interest in my profile. Let's create something amazing together! 
  
