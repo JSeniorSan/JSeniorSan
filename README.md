@@ -1,14 +1,13 @@
-# `Владимир Яковлев` - Фронтенд Разработчик ⚡️
-
-Привет! Меня зовут Владимир Яковлев, и я посвятил себя миру фронтенд разработки. Каждый день для меня - это новая возможность для открытий и творчества в этой динамично развивающейся сфере.
-
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Frontend Developer ⚡️</h3>
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52cDV5M2xxYzU4MWlreXF3YzcwcnRmMWFxeTBpamhnYzEweHFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHOUcNRKgpqTHiM/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52cDV5M2xxYzU4MWlreXF3YzcwcnRmMWFxeTBpamhnYzEweHFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHOUcNRKgpqTHiM/giphy.gif" width="100"/>
 </div>
 
+
+
+Привет! Меня зовут Владимир Яковлев, и я посвятил себя миру фронтенд разработки. Каждый день для меня - это новая возможность для открытий и творчества в этой динамично развивающейся сфере.
 
 
 ## Обо мне
