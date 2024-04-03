@@ -1,26 +1,26 @@
-<h1 align="start">Hi there, I'm <a href="" target="_blank">Vladimir</a> 
+# Hi there, I'm <a href="" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="start">Frontend Developer⚡️</h3>
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52cDV5M2xxYzU4MWlreXF3YzcwcnRmMWFxeTBpamhnYzEweHFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHOUcNRKgpqTHiM/giphy.gif" width="200"/>
 </div> -->
 
-##About me
+## About me
 <div>
   
 </div>
 
-<label>My tech stack:</label>
-<ul>
-   <li>JavaScript, TypeScript</li>
-   <li>React, Next.js</li>
-  <li> HTML, CSS, SASS/LESS, Styled Components, Tailwind CSS</li>
-  <li> Git, Webpack, npm, Vite</li>
-  <li> Docker, Prisma, Postgresql, MongoDB</li>
-  <li> Node.js, express</li>
-  <li> Работа с REST API</li>
-   <li>Chat GPT, Codium Ai</li>
- </ul>
+## My tech stack:
+
+- JavaScript, TypeScript
+- React, Next.js
+- HTML, CSS, SASS/LESS, Styled Components, Tailwind CSS
+- Git, Webpack, npm, Vite
+- Docker, Prisma, Postgresql, MongoDB
+- Node.js, express
+- Работа с REST API
+- Chat GPT, Codium Ai
+ 
 
 <h3>Links</h3>
 If you have interesting projects or ideas, I am always open to discussion. You can contact me via:
