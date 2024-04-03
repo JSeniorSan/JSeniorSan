@@ -1,6 +1,9 @@
 <h1>Hi there, I'm <a href="" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 ![](https://komarev.com/ghpvc/?username=JSeniorSan)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 ## About me
 I am actively developing in the field of frontend, constantly exploring new technologies and methodologies. I pay special attention to the study of technologies related to artificial intelligence, believing that they open up new horizons for the creation of innovative products.
