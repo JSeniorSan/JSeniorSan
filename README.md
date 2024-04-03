@@ -30,7 +30,7 @@ If you have interesting projects or ideas, I am always open to discussion. You c
 ## Streak stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JSeniorSan)](https://git.io/streak-stats)
 
-Thank you for your interest in my profile. Let's create something amazing together! 
+`Thank you for your interest in my profile. Let's create something amazing together!`
  
 
 
