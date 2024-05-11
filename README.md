@@ -24,6 +24,7 @@ If you have interesting projects or ideas, I am always open to discussion. You c
 - **Email**: yk_vladimir@mail.ru
 - **Kwork**: https://kwork.ru/user/vladimir_yk
 - **Telegram**: https://t.me/Vl_YakovlevYK
+- **LeetCode**: https://leetcode.com/u/vip007_007
 
 
 `Thank you for your interest in my profile. Let's create something amazing together!`
